@@ -3,7 +3,7 @@
 
 1. [Assignment 01](./Assignment-01/README.md)
 1. [Assignment 02](./Assignment-02/README.md)
-1. [Assignment 03](#)
+1. [Assignment 03](./Assignment-03/README.md)
 1. [Assignment 04](#)
 
 ## Submission of Assignments
