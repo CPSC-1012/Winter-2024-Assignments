@@ -32,7 +32,7 @@ __FV__ = 1000 x \[1 + (0.07 / 12)]<sup>(3 x 12)</sup> = __$1,232.93__
 _NOTE: in the formula above, the interest rate is converted from annual to monthly (divided by 12), and the number of years is converted to the number of months (multiplied by 12)._
 
 ### Sample Run
-![assign1](https://github.com/CPSC-1012/Winter-2024-Assignment-01/assets/1077542/d9a2c241-7f37-45b5-be6a-b439af88c270)
+![assign1](images/assign1-sample-run.gif)
 
 ## Submission
 Commit and push your solution to your GitHub classroom assignment repository before the deadline. Ensure that your solution follows the best coding and style practices, as your instructor has shown you in class. Failed adherence to the prescribed style guidelines may result in lost marks. __Your program must compile; a program that fails to compile will not be graded.__
