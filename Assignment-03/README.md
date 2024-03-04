@@ -23,7 +23,7 @@ Your program must meet the following requirements:
 
 ## Implementation Details 
 
-You will be provided with a starter project for this assignment (Assignment-02-Starter.zip). Your job will 
+You will be provided with a starter project for this assignment ([Assignment3Starter.zip](./Assignment3Starter.zip)). Your job will 
 be to complete the missing requirements where indicated. There are a number of tasks that are all identified by 
 `// TODO: ` comments throughout the Program.cs file.
 
