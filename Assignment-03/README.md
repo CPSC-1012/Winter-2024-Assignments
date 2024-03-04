@@ -119,6 +119,7 @@ your instructor if you do not understand something in this document.__
 - A C# comment block at the beginning of the source file describing the purpose, author, and last modified date of the program
 - Write only one statement per line
 - You must use two corresponding/parallel arrays for sales and dates in your solution
+- You must not use built-in methods for finding the average, high, and low values in arrays
 - Use camelCase for local variable names
 - Use TitleCase for any constant variable names
 - Use defensive programming where necessary
@@ -149,7 +150,7 @@ _NOTE: push early and often to your repository to recieve feedback from your ins
 ### Array Implementation
 | Mark | Description |
 |---|---|
-| 5  | Excellent – program implements and correctly uses both associative arrays; correct elementcount is kept; arrays are correctly loaded and traversed for output, including analysis algorithms (e.g. finding the median value) |
+| 5  | Excellent – program implements and correctly uses both associative arrays; correct elementcount is kept; arrays are correctly loaded and traversed for output, including analysis algorithms (e.g. finding the average value) |
 | 4  | Very Good – program implements and correctly uses both associative arrays; element count is always accurate; arrays are correctly loaded and traversed for output; analysis algorithms may contain a minor error |
 | 3  | Acceptable – program implements and correctly uses both associative arrays; element count is accurate in most cases; arrays are correctly loaded and traversed for output in most cases; analysis algorithms may contain minor errors |
 | 2  | Needs Work – program implements and uses both associative arrays; element count is not accurate; program suffers from minor error(s) when loading or traversing arrays for output; analysis algorithms not implemented or contains major error(s) |
