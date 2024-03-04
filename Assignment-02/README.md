@@ -34,6 +34,14 @@ The program must display all the calculated results to the user and ask them to 
 
 The program must allow the user to submit multiple trade requests, ending only when the user chooses to end the program. The program must also not crash or abnormally terminate due to any user input or internal processing; display appropriate error messages and recover from any errors gracefully.
 
+## Coding Requirements
+- A C# comment block at the beginning of the source file describing the purpose, author, and last modified date of the program
+- Write only one statement per line
+- Use camelCase for local variable names
+- Use TitleCase for any constant variable names
+- Use defensive programming where necessary
+- Ensure graceful handling of exceptions
+
 ### Sample Runs
 _NOTE: the repeated trade functionality of your program (i.e. the ability to choose to submit another trade request or to quit) is not shown in the sample runs below. **You will need to develop your own test plan and sample runs for the full program.**_
 
