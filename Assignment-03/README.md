@@ -29,7 +29,7 @@ be to complete the missing requirements where indicated. There are a number of t
 
 The program makes use of a main menu for top-level options and a sub-menu for the analysis options. The
 program should continue to run until the user chooses to quit the program. Ask the user to supply the 
-desired filename when saving a new monthly sales file. The user will need to enter new sales values for one month only and provide a value for each day in the month (days with no sales will be recorded as zero). Ensure that date values are in valid MM-dd-yyyy (e.g., 02-21-2024) format and that sales values are zero or positive.
+desired filename when saving a new monthly sales file. When entering new sales data, the user will need to enter new sales values for one month only and provide a value for each day in the month (days with no sales will be recorded as zero); there is no support for appending values into already partially filled arrays. Ensure that date values are in valid MM-dd-yyyy (e.g., 02-21-2024) format and that sales values are zero or positive.
 
 Use two parallel arrays for storing the data in your program (one for date values and one for
 corresponding daily sales values). Keep an accurate record count for the number of days of data that have
