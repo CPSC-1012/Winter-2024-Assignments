@@ -47,8 +47,8 @@ The format of the sales data files should be as follows (assume valid file forma
 Date,Sales
 02-01-2024,546.50
 02-02-2024,0.00
-02-02-2024,416.75
-02-03-2024,674.25
+02-03-2024,416.75
+02-04-2024,674.25
 ...
 02-29-2024,339.25
 ```
