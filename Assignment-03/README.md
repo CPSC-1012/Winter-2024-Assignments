@@ -124,6 +124,7 @@ your instructor if you do not understand something in this document.__
 - Use TitleCase for any constant variable names
 - Use defensive programming where necessary
 - Ensure graceful handling of exceptions
+- All methods must be defined as static methods
 
 ### Sample Runs
 
