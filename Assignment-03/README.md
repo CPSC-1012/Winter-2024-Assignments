@@ -125,6 +125,7 @@ your instructor if you do not understand something in this document.__
 - Use defensive programming where necessary
 - Ensure graceful handling of exceptions
 - All methods must be defined as static methods
+- Include summary comments for all defined methods
 
 ### Sample Runs
 
