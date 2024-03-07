@@ -129,7 +129,13 @@ your instructor if you do not understand something in this document.__
 ### Sample Runs
 
 #### Sample Program Run
-// TODO
+_NOTE: the sample runs do not demonstrate exception handling, ensure your program handles exceptions gracefully and does not crash._
+
+#### Enter values, perform analysis, and save file
+![Enter values, perform analysis, and save file](images/assign3-1.gif)
+
+#### Load file and edit entries
+![Load file and edit entries](images/assign3-2.gif)
 
 ## Submission
 Commit and push your solution to your GitHub classroom assignment repository before the deadline. Ensure that your solution follows the best coding and style practices, as your instructor has shown you in class. Failed adherence to the prescribed style guidelines may result in lost marks. __Your program must compile; a program that fails to compile will not be graded.__
