@@ -29,7 +29,7 @@ be to complete the missing requirements where indicated. There are a number of t
 
 The program makes use of a main menu for top-level options and a sub-menu for the analysis options. The
 program should continue to run until the user chooses to quit the program. Ask the user to supply the 
-desired filename when saving a new monthly sales file. When entering new sales data, the user will need to enter new sales values for one month only and provide a value for each day in the month (days with no sales will be recorded as zero); there is no support for appending values into already partially filled arrays. Ensure that date values are in valid MM-dd-yyyy (e.g., 02-21-2024) format and that sales values are zero or positive.
+desired filename when saving a new monthly sales file. When entering new sales data, the user will need to enter new sales values for one month only and provide a value for each day in the month (days with no sales will be recorded as zero); there is no support for appending values into already partially filled arrays. Ensure that date values are in valid MMM-dd-yyyy (e.g., FEB-21-2024) format and that sales values are zero or positive.
 
 Use two parallel arrays for storing the data in your program (one for date values and one for
 corresponding daily sales values). Keep an accurate record count for the number of days of data that have
@@ -41,16 +41,16 @@ per date.
 The format of the sales data files should be as follows (assume valid file format for input):
 - Include a header record with the following headings: Date and Sales
 - Sales results are recorded to two decimal places
-- Data files must include the date in MM-dd-yyyy format and be ordered in ascending date order:
+- Data files must include the date in MMM-dd-yyyy format and be ordered in ascending date order:
 
 ```sh
 Date,Sales
-02-01-2024,546.50
-02-02-2024,0.00
-02-03-2024,416.75
-02-04-2024,674.25
+FEB-01-2024,546.50
+FEB-02-2024,0.00
+FEB-03-2024,416.75
+FEB-04-2024,674.25
 ...
-02-29-2024,339.25
+FEB-29-2024,339.25
 ```
 _Sample data file format_
 
