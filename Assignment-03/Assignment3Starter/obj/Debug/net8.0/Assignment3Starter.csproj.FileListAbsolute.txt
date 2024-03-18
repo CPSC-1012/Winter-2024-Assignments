@@ -1,0 +1,15 @@
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\bin\Debug\net8.0\Assignment3Starter.exe
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\bin\Debug\net8.0\Assignment3Starter.deps.json
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\bin\Debug\net8.0\Assignment3Starter.runtimeconfig.json
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\bin\Debug\net8.0\Assignment3Starter.dll
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\bin\Debug\net8.0\Assignment3Starter.pdb
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\Assignment3Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\Assignment3Starter.AssemblyInfoInputs.cache
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\Assignment3Starter.AssemblyInfo.cs
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\Assignment3Starter.csproj.CoreCompileInputs.cache
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\Assignment3Starter.sourcelink.json
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\Assignment3Starter.dll
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\refint\Assignment3Starter.dll
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\Assignment3Starter.pdb
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\Assignment3Starter.genruntimeconfig.cache
+C:\GitHub\CPSC1012\Winter-2024-Assignments\Assignment-03\Assignment3Starter\obj\Debug\net8.0\ref\Assignment3Starter.dll
