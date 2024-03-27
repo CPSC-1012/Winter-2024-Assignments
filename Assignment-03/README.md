@@ -16,7 +16,6 @@ Your program must meet the following requirements:
 - Must allow the user to view and edit previously entered sales values
 - Must allow the user to view simple analysis of the currently entered/loaded data:
   - Mean average sales
-  - Median of sales
   - Highest daily sales amount
   - Lowest daily sales amount
   - Chart of daily sales for the current month
