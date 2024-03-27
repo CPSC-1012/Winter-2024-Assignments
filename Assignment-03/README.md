@@ -81,7 +81,7 @@ loop to loop through the arrays and produce the display__ [difficulty 2]
 - void EditEntries(double[] sales, string[] dates, int countOfEntries) --> allows the user to view all current
 entries and choose one to edit (i.e. overwrite) [difficulty 3]
 - void DisplaySalesChart(double[] sales, string[] dates, int countOfEntries) --> displays a chart
-of the pH log data in the following format:
+of the sales data in the following format:
 
 ```
 === Sales for the month of February ===
